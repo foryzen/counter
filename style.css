@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    margin: 0;
+    position: absolute;
+    padding: 5px;
+    font-size: 20px;
+    user-select: none;
+}
+
+h1{
+    padding: 0 30px;
+    margin: 0;
+    user-select: none;
+    font-family: 'Rounded Mplus 1c';
+    font-size: 80px;
+    color: white;
+    font-weight: 300;
+}
+
+.div-a{
+    width: 100vw;
+    height: 50vh;
+    background: #ff8080;
+}
+
+.div-b{
+    width: 100vw;
+    height: 50vh;
+    background: #8080ff;
+}
+
+#ha{
+    background: #ff6060;
+}
+
+#hb{
+    background: #6060ff;
+}
